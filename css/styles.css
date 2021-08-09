@@ -9,7 +9,6 @@
   font-size: 50px;
   text-decoration: underline;
   font-weight: 1;
-  background-color: mediumpurple;
 }
 
 .title {
@@ -17,18 +16,41 @@
   text-align: left;
   color: #808080;
   font-size: 40px;
-  text-decoration: underline;
   font-weight: 1;
 }
 
 img.intro {
-  width: 10%;
-  height: 10%;
+  width: 20%;
+  height: 20%;
   float: left;
   margin-right: 10px;
   margin-bottom: 10px;
+  border: solid black;
 }
 
-img {
-  width: 125px; 
+img.slyde {
+  width: 2%;
+  height: 2%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  padding-right: 10px;
+}
+
+img.epicodus {
+  width: 2%;
+  height: 2%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  padding-right: 10px;
+}
+
+img.github {
+  width: 2%;
+  height: 2%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  padding-right: 10px;
 }
