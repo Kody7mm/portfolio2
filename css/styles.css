@@ -5,9 +5,8 @@
   text-align: center;
   color: darkslategrey;
   border: solid black;
-  border-width: medium;
+  border-width: small;
   font-size: 50px;
-  text-decoration: underline;
   font-weight: 1;
 }
 
@@ -54,3 +53,14 @@ img.github {
   padding-right: 10px;
   float: left;
 }
+
+.important {
+  font-weight: bold;
+  color: red;
+}
+
+.wholepage {
+  background: beige;
+}
+
+body {background-color: black;}
