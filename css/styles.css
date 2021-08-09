@@ -20,3 +20,15 @@
   text-decoration: underline;
   font-weight: 1;
 }
+
+img.intro {
+  width: 10%;
+  height: 10%;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 125px; 
+}
