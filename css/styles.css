@@ -29,28 +29,28 @@ img.intro {
 }
 
 img.slyde {
-  width: 2%;
-  height: 2%;
+  width: 4%;
+  height: 4%;
   margin-right: 10px;
   margin-bottom: 10px;
-  float: left;
   padding-right: 10px;
+  float: left;
 }
 
 img.epicodus {
-  width: 2%;
-  height: 2%;
+  width: 5%;
+  height: 5%;
   margin-right: 10px;
   margin-bottom: 10px;
-  float: left;
   padding-right: 10px;
+  float: left;
 }
 
 img.github {
-  width: 2%;
-  height: 2%;
+  width: 5%;
+  height: 5%;
   margin-right: 10px;
   margin-bottom: 10px;
-  float: left;
   padding-right: 10px;
+  float: left;
 }
