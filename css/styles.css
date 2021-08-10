@@ -35,6 +35,9 @@ img.slyde {
   padding-right: 10px;
   float: left;
 }
+.workhistory {
+  float: left;
+}
 
 img.epicodus {
   width: 5%;
@@ -63,4 +66,4 @@ img.github {
   background: beige;
 }
 
-body {background-color: black;}
+body {background-color: white;}
