@@ -12,8 +12,15 @@ This website was built to showcase the projects and work of Kody Gordon. Inside 
 
 ## Setup/Installation Requirement
 * [Portfolio](https://github.com/kody7mm/portfolio2.git)
-* [gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git/portfolio2)
-* Can be cloned from [repository](https://github.com/kody7mm/portfolio2.git)
+* [gh-pages](https://kody7mm.github.io/portfolio2/)
+* **Clone the repository** to a local directory using the command-line tool `git` ([how to install git](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/git-and-github)).  
+  `$ cd ~/[directory]/[path]/[of]/[choice]/`  
+  `$ git clone https://github.com/kody7mm/portfolio2.git`  
+
+* **Navigate into the project** using `cd` to move to the top level of the project directory.  
+  `$ cd portfolio2/`  
+
+* **Run current project** by using command `code .` inside terminal to launch Visual Studio Code.
 
 ## Known Bugs
 * Design will be improved
